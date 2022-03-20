@@ -1,3 +1,2 @@
 # Distribute-Content-With-signedURLs
-Distribute Content With signed URLs
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage") here for addtional details
+##Go through the [blog](https://srikargandhi.medium.com/distribute-content-with-signed-urls-fe09b4d7b72e "") for addtional details
