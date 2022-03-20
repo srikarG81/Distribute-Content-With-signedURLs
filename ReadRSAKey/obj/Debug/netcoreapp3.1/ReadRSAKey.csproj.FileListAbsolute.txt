@@ -1,0 +1,17 @@
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.exe
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.deps.json
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.runtimeconfig.json
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.runtimeconfig.dev.json
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.dll
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\ReadRSAKey.pdb
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.csproj.AssemblyReference.cache
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.AssemblyInfoInputs.cache
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.AssemblyInfo.cs
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.csproj.CoreCompileInputs.cache
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.dll
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.pdb
+C:\CodePractice\ReadRSAKey\ReadRSAKey\obj\Debug\netcoreapp3.1\ReadRSAKey.genruntimeconfig.cache
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\CannedPolicy.txt
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\private_key_xml.xml
+C:\CodePractice\ReadRSAKey\ReadRSAKey\bin\Debug\netcoreapp3.1\private_key.pem
